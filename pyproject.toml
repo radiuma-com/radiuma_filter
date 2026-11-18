@@ -3,9 +3,10 @@ requires = ["setuptools>=68"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "radiuma-filter"
-version = "0.1.0"
-description = "Radiuma Filter execution and image-filtering package"
+name = "radiuma_filter"
+version = "1.0.0"
+description = "Image filtering and execution library"
+readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "numpy>=1.24",
@@ -21,6 +22,9 @@ dependencies = [
     "pydicom>=2.4",
     "psutil>=5.9",
 ]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
 
 [tool.setuptools.packages.find]
 where = ["src"]
