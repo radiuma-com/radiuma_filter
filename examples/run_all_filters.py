@@ -20,11 +20,11 @@ from radiuma_filter import (
 
 
 SINGLE_IMAGE = Path(
-    r"C:\data\Radiuma-Documantation\Examples\Data\MRI\T1-Images\01163#T1.nii.gz"
+    r"PATH_TO_IMAGE"
 )
 
 IMAGE_FOLDER = Path(
-    r"C:\data\Radiuma-Documantation\Examples\Data\MRI\T1-Images"
+    r"PATH_TO_FOLDER"
 )
 
 
