@@ -585,7 +585,7 @@ with that input and `result.errors` for the execution's collected errors.
 
 ## 🕒 Version History
 
-### 1.0.0
+### 0.0.0
 
 - Initial release of the `radiuma_filter` package.
 - Ten built-in not standardized and standardized filters.
