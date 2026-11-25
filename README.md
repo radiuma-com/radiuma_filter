@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.svg" alt="Radiuma Filter Logo" width="250">
+</p>
+
 # radiuma_filter: Python Image Filtering Library
 
 **PyPI:** [Link](https://pypi.org/project/radiuma_filter/)
