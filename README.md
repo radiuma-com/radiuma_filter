@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.svg" alt="Radiuma Filter Logo" width="250">
+  <img src="https://raw.githubusercontent.com/radiuma-com/radiuma_filter/main/assets/logo.svg" alt="Radiuma Filter Logo" width="250">
 </p>
 
 # radiuma_filter: Python Image Filtering Library
